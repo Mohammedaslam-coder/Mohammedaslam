@@ -26,7 +26,7 @@ I have experience working with:
 - Code architecture and clean coding practices.
 
 ### 📫 How to reach me
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [mohammedaslamaslam419@gmail.com](mailto:mohammedaslamaslam419@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
 
 
