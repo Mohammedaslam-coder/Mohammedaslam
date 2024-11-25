@@ -30,6 +30,9 @@ I have experience working with:
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-aslam-m-57443425b)
 
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-9894411214-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/919894411214)
+
+
 
 
 ### ⚡ Fun fact
