@@ -26,7 +26,7 @@ I have experience working with:
 - Code architecture and clean coding practices.
 
 ### 📫 How to reach me
-- Email: [mohammedaslamaslam419@gmail.com]
+- https://img.shields.io/badge/Email-naveenns20804%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:mohammedaslamaslam419@gmail.com.)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohammed-aslam-m-57443425b)
 
 
