@@ -28,7 +28,8 @@ I have experience working with:
 ### 📫 How to reach me
 -[![Email](https://img.shields.io/badge/Email-mohammedaslamaslam419%40gmail.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:mohammedaslamaslam419@gmail.com)
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohammed-aslam-m-57443425b)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-aslam-m-57443425b)
+
 
 
 ### ⚡ Fun fact
