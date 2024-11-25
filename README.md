@@ -27,7 +27,7 @@ I have experience working with:
 
 ### 📫 How to reach me
 - Email: [mohammedaslamaslam419@gmail.com]
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohammed-aslam-m-57443425b)
 
 
 ### ⚡ Fun fact
